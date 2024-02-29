@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @simona-cancian
-- 🎓 My learning so far:<br/>
-   🌱 I’m currently studying Certificate IV - Programming at Tafe SA.<br/>
-   🌱 Completed CS50X - Introduction to Computer Science<br/>
-   🌱 Completed CS50P - Introduction to Programming with Python<br/>
-- 🎓 Skills learned, and still developing:<br/>
-   🌱 C, Python, Flask, SQL, PHP, HTML/CSS, UWP, C#, JavaScript, Java.
+# 👋 Hi there, I'm Simona Cancian!
+
+## 🎓 My Learning Journey
+- 🌱 Currently pursuing Certificate IV in Programming at Tafe SA.
+- 🌱 Completed CS50X - Introduction to Computer Science.
+- 🌱 Completed CS50P - Introduction to Programming with Python.
+
+## 🎓 Skills & Technologies
+- 🌱 Intermediate knowledge in: Python.
+- 🌱 Currently developing skills in:  C, SQL, PHP, HTML/CSS.UWP, C#, JavaScript, Java.
+
+## 🚀 About Me
+I'm passionate about coding and enthusiastic about continuous learning. My GitHub is a reflection of my learning journey.
+
+Happy coding! ✨
 
 
 <!---
