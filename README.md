@@ -12,6 +12,9 @@
 ## 🚀 About Me
 I'm passionate about coding and enthusiastic about continuous learning. My GitHub is a reflection of my learning journey.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simona-cancian&layout=compact&theme=radical&langs_count=10)
+
+
 Happy coding! ✨
 
 
