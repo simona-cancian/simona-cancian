@@ -1,13 +1,21 @@
 # 👋 Hi there, I'm Simona Cancian!
 
 ## 🎓 My Learning Journey
-- 🌱 Currently pursuing Certificate IV in Programming at Tafe SA.
-- 🌱 Completed CS50X - Introduction to Computer Science.
-- 🌱 Completed CS50P - Introduction to Programming with Python.
+- 🌱 Certificate IV in Information Technology - Programming.
+- 🌱 CS50X - Introduction to Computer Science.
+- 🌱 CS50P - Introduction to Programming with Python.
+- 🌱 MongoDB Python Developer Path.
+- 🌱 AWS Academy Cloud Foundations.
+- 🌱 Responsive Web Design Certification with freeCodeCamp.
 
 ## 🎓 Skills & Technologies
-- 🌱 Intermediate knowledge in: Python.
-- 🌱 Currently developing skills in:  C, SQL, PHP, HTML/CSS.UWP, C#, JavaScript, Java.
+- 🌱 **Programming languages**: Python, C#, Java
+- 🌱 **Web Development**: HTML/CSS
+- 🌱 **Databases**: SQL
+- 🌱 **Software Design**: UML
+- 🌱 **Quality Assurance**: Unit Testing
+- 🌱 **Version Control**: Git
+- 🌱 **Data Analysis**: Power BI
 
 ## 🚀 About Me
 I'm passionate about coding and enthusiastic about continuous learning. My GitHub is a reflection of my learning journey.
