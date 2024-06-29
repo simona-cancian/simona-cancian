@@ -12,6 +12,7 @@
 - 🌱 **Programming languages**: Python, C#, Java
 - 🌱 **Web Development**: HTML/CSS
 - 🌱 **Databases**: SQL
+- 🌱 **Cloud Computing**: Cloud Fundamentals
 - 🌱 **Software Design**: UML
 - 🌱 **Quality Assurance**: Unit Testing
 - 🌱 **Version Control**: Git
