@@ -10,10 +10,7 @@
 
 ## 🎓 Skills & Technologies
 - 🌱 **Programming languages**: Python, C#, Java
-- 🌱 **Web Development**: HTML/CSS
-- 🌱 **Databases**: SQL
-- 🌱 **Cloud Computing**: Cloud Fundamentals
-- 🌱 **Software Design**: UML
+- 🌱 **Web Development**: HTML/CSS, Blazor, Front-End Development
 - 🌱 **Quality Assurance**: Unit Testing
 - 🌱 **Version Control**: Git
 - 🌱 **Data Analysis**: Power BI
