@@ -11,9 +11,9 @@
 ## 🚀 About Me
 I'm passionate about coding and enthusiastic about continuous learning. My GitHub is a reflection of my learning journey.
 
-<p>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simona-cancian&size_weight=0.5&count_weight=0.5&layout=compact&theme=ambient_gradient&langs_count=6" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=simona-cancian&show_icons=true&theme=jolly&include_all_commits=true&rank_icon=github" />
+<p align="center">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=simona-cancian&size_weight=0.5&count_weight=0.5&layout=compact&theme=ambient_gradient&langs_count=6" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=simona-cancian&show_icons=true&theme=jolly&include_all_commits=true&rank_icon=github" />
 </p>
 
 Happy coding! ✨
